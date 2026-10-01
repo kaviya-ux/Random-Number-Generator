@@ -38,29 +38,9 @@ random-number-generator/
 
 ## 🧠 JavaScript Logic
 
-The application uses:
-
-```javascript
-Math.floor(Math.random() * (max - min + 1)) + min;
-```
-
 * `Math.random()` generates a random decimal number between `0` and `1`.
 * `Math.floor()` converts the result into a whole number.
 * The formula ensures that the generated number falls between the minimum and maximum values.
-
-## ▶️ How to Run the Project
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/random-number-generator.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
-No backend or installation is required.
 
 ## 🔮 Future Improvements
 
@@ -70,8 +50,3 @@ No backend or installation is required.
 * Add an option to generate multiple random numbers
 * Add copy-to-clipboard functionality
 
-
-GitHub: `https://github.com/your-username`
-
-```
-```
