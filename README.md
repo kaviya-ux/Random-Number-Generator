@@ -1,5 +1,4 @@
 # 🎲 Random Number Generator
-
 A simple and responsive **Random Number Generator** web application built using **HTML, Tailwind CSS, and JavaScript**. Users can enter a minimum and maximum value, and the application generates a random number within the given range.
 
 ## Features
