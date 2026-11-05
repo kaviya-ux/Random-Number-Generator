@@ -49,5 +49,4 @@ random-number-generator/
 * Add random number generation history
 * Add dark mode
 * Add an option to generate multiple random numbers
-* Add copy-to-clipboard functionality
-
+* Add copy-to-clipboard functionalit
